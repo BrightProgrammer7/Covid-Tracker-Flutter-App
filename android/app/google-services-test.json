@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8912849631",
+    "project_id": "covidtrackerai",
+    "storage_bucket": "covidtrackerai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8912849631:android:f9c3b3c9992c23ab4bb76a",
+        "android_client_info": {
+          "package_name": "com.example.covid_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq3_44wpWV8KoHFqoYD53iduuO-VPGwqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

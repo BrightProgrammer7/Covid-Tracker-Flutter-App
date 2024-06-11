@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "covidtrackerai",
+          "appId": "1:8912849631:android:f9c3b3c9992c23ab4bb76a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "covidtrackerai",
+          "configurations": {
+            "android": "1:8912849631:android:f9c3b3c9992c23ab4bb76a",
+            "ios": "1:8912849631:ios:b5d2b65eb6eb723e4bb76a",
+            "macos": "1:8912849631:ios:b5d2b65eb6eb723e4bb76a",
+            "web": "1:8912849631:web:96013561c17e445d4bb76a",
+            "windows": "1:8912849631:web:da459d091e0f47664bb76a"
+          }
+        }
+      }
+    }
+  }
+}
